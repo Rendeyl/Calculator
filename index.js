@@ -34,4 +34,6 @@ buttons.forEach(button => {
   });
 });
 
-//theme soon
+//theme
+
+const theme_btn = document.getElementById("change-theme");
